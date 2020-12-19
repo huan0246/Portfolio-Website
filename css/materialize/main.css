@@ -8093,6 +8093,7 @@ input[type=range]::-ms-thumb {
 }
 html {
   min-width: 390px;
+  font-family: "Rubik", sans-serif;
 }
 
 @media only screen and (min-width: 600px) {
